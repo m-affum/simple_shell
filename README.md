@@ -1,1 +1,1 @@
-Application oc C knolwledge to create a clone of the bash in Linux
+Application of C programming knolwledge to create a clone of the bash in Linux
